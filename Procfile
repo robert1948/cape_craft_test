@@ -1,1 +1,1 @@
-web: gunicorn cape_craft_test.wsgi
+web: gunicorn dentist.wsgi
